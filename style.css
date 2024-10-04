@@ -92,3 +92,14 @@ ul li.checked::before{
     height:120px ;
     width: 130px;
 }
+.ul li span{
+    position: relative;
+    height:40px ;
+    width:40px ;
+    margin: 2px;
+    font-size:22px;
+}
+.ul li span:hover{
+background-color: aqua;
+
+}
